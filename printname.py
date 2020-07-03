@@ -1,5 +1,5 @@
 a=0
 while(a<10):
-	print("mujeeb")
+	print("Nahyan")
 	a = a+1
 
